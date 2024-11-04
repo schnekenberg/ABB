@@ -1,6 +1,6 @@
 /*	ARVORE BINARIA DE BUSCA COM NO PAI
 	Arquivo: ArvoreBinariaBuscaComPai.c
-	Autor: tokyyto
+	Autor: guilherme schnekenberg
 	Data: 03/11/2024 12:20
 	Descricao: implementacao da lista de exercicios envolvendo Arvores Binarias de Busca, com o no pai
 	Anotacoes: N/A
